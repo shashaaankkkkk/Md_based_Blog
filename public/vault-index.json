@@ -1,0 +1,84 @@
+[
+  {
+    "title": "May 28, 2026",
+    "date": "2026-05-28T19:00:00.000Z",
+    "path": "journal/2026/05/28.md",
+    "routePath": "journal/2026/05/28",
+    "folders": [
+      "journal",
+      "2026",
+      "05"
+    ],
+    "tags": [
+      "daily"
+    ],
+    "frontmatter": {
+      "date": "2026-05-28T19:00:00Z",
+      "tags": [
+        "daily"
+      ]
+    }
+  },
+  {
+    "title": "Architecture of the minimal journal",
+    "date": "2026-05-28T09:00:00.000Z",
+    "path": "architecture.md",
+    "routePath": "architecture",
+    "folders": [],
+    "tags": [
+      "architecture",
+      "code"
+    ],
+    "frontmatter": {
+      "title": "Architecture of the minimal journal",
+      "date": "2026-05-28T09:00:00Z",
+      "tags": [
+        "architecture",
+        "code"
+      ]
+    }
+  },
+  {
+    "title": "May 27, 2026",
+    "date": "2026-05-27T20:00:00.000Z",
+    "path": "journal/2026/05/27.md",
+    "routePath": "journal/2026/05/27",
+    "folders": [
+      "journal",
+      "2026",
+      "05"
+    ],
+    "tags": [
+      "daily"
+    ],
+    "frontmatter": {
+      "date": "2026-05-27T20:00:00Z",
+      "tags": [
+        "daily"
+      ]
+    }
+  },
+  {
+    "title": "Quiet interface design",
+    "date": "2026-05-27T10:00:00.000Z",
+    "path": "thoughts/quiet-interfaces.md",
+    "routePath": "thoughts/quiet-interfaces",
+    "folders": [
+      "thoughts"
+    ],
+    "tags": [
+      "design",
+      "ui",
+      "thoughts"
+    ],
+    "frontmatter": {
+      "title": "Quiet interface design",
+      "date": "2026-05-27T10:00:00Z",
+      "tags": [
+        "design",
+        "ui",
+        "thoughts"
+      ]
+    }
+  }
+]
